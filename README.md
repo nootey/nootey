@@ -2,7 +2,7 @@
 
 ### About me
 
-Full-stack software engineer, with a focus on Backend/DevOps.
+Full-stack software engineer, with a focus on Backend development.
 Aligning my work with industry best practices while continuing to learn and grow.
 
 <br>
